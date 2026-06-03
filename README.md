@@ -1,3 +1,5 @@
+<img width="492" height="626" alt="Tech_Chatbot" src="https://github.com/user-attachments/assets/ca08aefc-45dd-4203-b7c8-65829164de82" />
+
 # 🤖 Technology Chatbot
 
 A semantic AI-powered Technology Chatbot built with **Python**, **Tkinter**, and **Sentence Transformers**. Instead of relying on simple keyword matching, the chatbot uses **sentence embeddings** and **cosine similarity** to understand user intent and provide relevant technology-related responses.
@@ -232,5 +234,5 @@ Contributions are welcome!
 Created by JP using Python and NLP technologies.
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
-<img width="492" height="626" alt="Tech_Chatbot" src="https://github.com/user-attachments/assets/ca08aefc-45dd-4203-b7c8-65829164de82" />
+
 
