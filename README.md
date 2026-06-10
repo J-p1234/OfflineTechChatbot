@@ -1,4 +1,5 @@
-<img width="492" height="626" alt="Tech_Chatbot" src="https://github.com/user-attachments/assets/ca08aefc-45dd-4203-b7c8-65829164de82" />
+<img width="496" height="622" alt="Tech_Chatbot (2)" src="https://github.com/user-attachments/assets/368e0c8b-1266-4001-aaf1-74e2227e12e2" />
+
 
 # 🤖 Technology Chatbot
 
